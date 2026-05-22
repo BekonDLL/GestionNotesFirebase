@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27587061574",
+    "project_id": "gestionnotesfirebase",
+    "storage_bucket": "gestionnotesfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27587061574:android:c25317af16873148f92747",
+        "android_client_info": {
+          "package_name": "com.abdo.gestionnotesfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl0JWDi9_fdl2W0r4SBCb8yf0YegWUFPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
